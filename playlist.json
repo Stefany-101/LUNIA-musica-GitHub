@@ -1,0 +1,247 @@
+{
+  "schema_version": 2,
+  "tracks": [
+    {
+      "id": "track-35a25b9dbc068bee",
+      "title": "065. CORE (UNDERTALE Soundtrack) - Toby Fox",
+      "sources": [
+        {
+          "url": "music/065-core-undertale-soundtrack-toby-fox-35a25b9d.mp3",
+          "duration_seconds": 171.39
+        }
+      ]
+    },
+    {
+      "id": "track-08a156c53aea0c86",
+      "title": "BOTA BOTA",
+      "sources": [
+        {
+          "url": "music/bota-bota-08a156c5.mp3",
+          "duration_seconds": 124.87
+        }
+      ]
+    },
+    {
+      "id": "track-d7c2440d838103f7",
+      "title": "Calling back",
+      "sources": [
+        {
+          "url": "music/calling-back-d7c2440d.mp3",
+          "duration_seconds": 151.46
+        }
+      ]
+    },
+    {
+      "id": "track-c512a0a3209abbe4",
+      "title": "Can You Feel The Sunshine (Instrumental)",
+      "sources": [
+        {
+          "url": "music/can-you-feel-the-sunshine-instrumental-c512a0a3.mp3",
+          "duration_seconds": 270.29
+        }
+      ]
+    },
+    {
+      "id": "track-e775f2e477f3fb6c",
+      "title": "Falling in Love - Instrumental Version Song by March the Machine (Cinematic Music FREE)",
+      "sources": [
+        {
+          "url": "music/falling-in-love-instrumental-version-song-by-march-the-machine-cinematic-mu-e775f2e4.mp3",
+          "duration_seconds": 210.91
+        }
+      ]
+    },
+    {
+      "id": "track-41287b741f2a128c",
+      "title": "LUNIA PEAK",
+      "sources": [
+        {
+          "url": "music/lunia-peak-41287b74.mp3",
+          "duration_seconds": 289.59
+        }
+      ]
+    },
+    {
+      "id": "track-5db4e7c3a729e651",
+      "title": "Misty",
+      "sources": [
+        {
+          "url": "music/misty-5db4e7c3.mp3",
+          "duration_seconds": 193.96
+        }
+      ]
+    },
+    {
+      "id": "track-7ca9d778001c9ef1",
+      "title": "Resort Island (Instrumental)",
+      "sources": [
+        {
+          "url": "music/resort-island-instrumental-7ca9d778.mp3",
+          "duration_seconds": 270.11
+        }
+      ]
+    },
+    {
+      "id": "track-4114925518375338",
+      "title": "Ritual",
+      "sources": [
+        {
+          "url": "music/ritual-41149255.mp3",
+          "duration_seconds": 155.45
+        }
+      ]
+    },
+    {
+      "id": "track-2bc734afd3745d36",
+      "title": "TECNO LUNIA",
+      "sources": [
+        {
+          "url": "music/tecno-lunia-2bc734af.mp3",
+          "duration_seconds": 377.76
+        }
+      ]
+    },
+    {
+      "id": "track-5c455f2a437f5ed8",
+      "title": "The Raven",
+      "sources": [
+        {
+          "url": "music/the-raven-5c455f2a.mp3",
+          "duration_seconds": 122.75
+        }
+      ]
+    },
+    {
+      "id": "track-0c4a931c31af7ca6",
+      "title": "darklouds",
+      "sources": [
+        {
+          "url": "music/darklouds-0c4a931c.mp3",
+          "duration_seconds": 59.14
+        }
+      ]
+    },
+    {
+      "id": "track-2627709ff6c4938d",
+      "title": "lose my mind",
+      "sources": [
+        {
+          "url": "music/lose-my-mind-2627709f.mp3",
+          "duration_seconds": 235.57
+        }
+      ]
+    },
+    {
+      "id": "track-668f06448d08ae0d",
+      "title": "song that might play when your in the MENU options",
+      "sources": [
+        {
+          "url": "music/song-that-might-play-when-your-in-the-menu-options-668f0644.mp3",
+          "duration_seconds": 54.15
+        }
+      ]
+    },
+    {
+      "id": "track-85d7c5e0382f1c05",
+      "title": "you can sleep now    relaxing undertale & deltarune music w  soft rain (mp3cut.net)",
+      "sources": [
+        {
+          "url": "music/you-can-sleep-now-relaxing-undertale-deltarune-music-w-soft-rain-mp3cut-net-85d7c5e0.mp3",
+          "duration_seconds": 1713.03
+        }
+      ]
+    },
+    {
+      "id": "track-b2e14835314727c7",
+      "title": "♻️※𝒶𝓈𝒸𝑒𝓃𝒹𝒾𝓃𝑔未来※𝒽𝑒𝒶𝓁𝒾𝓃𝑔未来🪷 Spiritual Frutiger Aero playlist for Peace by Arielchan 🌸🕊️",
+      "sources": [
+        {
+          "url": "music/ascendinghealing-spiritual-frutiger-aero-playlist-for-peace-by-arielchan-b2e14835.mp3",
+          "duration_seconds": 2714.67
+        }
+      ]
+    },
+    {
+      "id": "track-6bb862a8f4512aa6",
+      "title": "おどれグロッケンシュピール @ フリーBGM DOVA-SYNDROME OFFICIAL YouTube CHANNEL",
+      "sources": [
+        {
+          "url": "music/bgm-dova-syndrome-official-youtube-channel-6bb862a8.mp3",
+          "duration_seconds": 194.12
+        }
+      ]
+    },
+    {
+      "id": "track-b01ca186a5718b89",
+      "title": "さみしいおばけと東京の月 @ フリーBGM DOVA-SYNDROME OFFICIAL YouTube CHANNEL",
+      "sources": [
+        {
+          "url": "music/bgm-dova-syndrome-official-youtube-channel-b01ca186.mp3",
+          "duration_seconds": 101.12
+        }
+      ]
+    },
+    {
+      "id": "track-5534eba38eac2d6a",
+      "title": "(FREE) The Marías x Men I Trust Type Beat Dreamy Indie Pop Instrumental - one night sleep",
+      "sources": [
+        {
+          "url": "music/free-the-marias-x-men-i-trust-type-beat-dreamy-indie-pop-instrumental-one-n-5534eba3.mp3",
+          "duration_seconds": 161.78
+        }
+      ]
+    },
+    {
+      "id": "track-a79c7ae6a0fccf0f",
+      "title": "Admire - Where’s LuLu AUDIO VISUALIZER 4K MUSIC VIDEO ABSTRACT BLENDER GEOMETRY NODES ANIMATION",
+      "sources": [
+        {
+          "url": "music/admire-wheres-lulu-audio-visualizer-4k-music-video-abstract-blender-geometr-a79c7ae6.mp3",
+          "duration_seconds": 152.27
+        }
+      ]
+    },
+    {
+      "id": "track-3d7286b6addddf50",
+      "title": "Comfy Night｜フリーBGM OpenTracks（旧DOVA-SYNDROME） OFFICIAL YouTube CHANNEL",
+      "sources": [
+        {
+          "url": "music/comfy-night-bgm-opentracks-dova-syndrome-official-youtube-channel-3d7286b6.mp3",
+          "duration_seconds": 230.11
+        }
+      ]
+    },
+    {
+      "id": "track-22e970d8b6b2c5e5",
+      "title": "LARGER MUSIC PART OF \"you can rest now...\" FOR IDK REASONS",
+      "sources": [
+        {
+          "url": "music/larger-music-part-of-you-can-rest-now-for-idk-reasons-22e970d8-parte-01.mp3",
+          "duration_seconds": 3000.01
+        },
+        {
+          "url": "music/larger-music-part-of-you-can-rest-now-for-idk-reasons-22e970d8-parte-02.mp3",
+          "duration_seconds": 3000.01
+        },
+        {
+          "url": "music/larger-music-part-of-you-can-rest-now-for-idk-reasons-22e970d8-parte-03.mp3",
+          "duration_seconds": 3000.01
+        },
+        {
+          "url": "music/larger-music-part-of-you-can-rest-now-for-idk-reasons-22e970d8-parte-04.mp3",
+          "duration_seconds": 321.49
+        }
+      ]
+    },
+    {
+      "id": "track-afd1b0ab6283487e",
+      "title": "Why I cant sleep",
+      "sources": [
+        {
+          "url": "music/why-i-cant-sleep-afd1b0ab.mp3",
+          "duration_seconds": 161.31
+        }
+      ]
+    }
+  ]
+}
