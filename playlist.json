@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "tracks": [
     {
       "id": "track-35a25b9dbc068bee",
@@ -10,9 +10,16 @@
           "duration_seconds": 171.39
         }
       ],
-      "usage": {
-        "type": "pending",
-        "moment": null
+      "playback": {
+        "main_menu": false,
+        "contexts": [
+          {
+            "context": "cooking_instructions",
+            "trigger": "cooking_instructions_opened"
+          }
+        ],
+        "pending_assignment": false,
+        "suggested_uses": []
       }
     },
     {
@@ -24,9 +31,16 @@
           "duration_seconds": 124.87
         }
       ],
-      "usage": {
-        "type": "pending",
-        "moment": null
+      "playback": {
+        "main_menu": false,
+        "contexts": [
+          {
+            "context": "cooking_instructions",
+            "trigger": "cooking_instructions_opened"
+          }
+        ],
+        "pending_assignment": false,
+        "suggested_uses": []
       }
     },
     {
@@ -38,9 +52,13 @@
           "duration_seconds": 151.46
         }
       ],
-      "usage": {
-        "type": "pending",
-        "moment": null
+      "playback": {
+        "main_menu": false,
+        "contexts": [],
+        "pending_assignment": true,
+        "suggested_uses": [
+          "Diario personal"
+        ]
       }
     },
     {
@@ -52,9 +70,16 @@
           "duration_seconds": 270.29
         }
       ],
-      "usage": {
-        "type": "pending",
-        "moment": null
+      "playback": {
+        "main_menu": false,
+        "contexts": [
+          {
+            "context": "sunshine_dance_preview",
+            "trigger": "enter"
+          }
+        ],
+        "pending_assignment": false,
+        "suggested_uses": []
       }
     },
     {
@@ -66,9 +91,13 @@
           "duration_seconds": 210.91
         }
       ],
-      "usage": {
-        "type": "pending",
-        "moment": null
+      "playback": {
+        "main_menu": false,
+        "contexts": [],
+        "pending_assignment": true,
+        "suggested_uses": [
+          "Momentos de gratitud"
+        ]
       }
     },
     {
@@ -80,9 +109,13 @@
           "duration_seconds": 289.59
         }
       ],
-      "usage": {
-        "type": "pending",
-        "moment": null
+      "playback": {
+        "main_menu": false,
+        "contexts": [],
+        "pending_assignment": true,
+        "suggested_uses": [
+          "Clímax del juego de nave"
+        ]
       }
     },
     {
@@ -94,9 +127,13 @@
           "duration_seconds": 193.96
         }
       ],
-      "usage": {
-        "type": "pending",
-        "moment": null
+      "playback": {
+        "main_menu": false,
+        "contexts": [],
+        "pending_assignment": true,
+        "suggested_uses": [
+          "Diario de emociones"
+        ]
       }
     },
     {
@@ -108,9 +145,13 @@
           "duration_seconds": 155.45
         }
       ],
-      "usage": {
-        "type": "pending",
-        "moment": null
+      "playback": {
+        "main_menu": false,
+        "contexts": [],
+        "pending_assignment": true,
+        "suggested_uses": [
+          "Rompecabezas cósmico"
+        ]
       }
     },
     {
@@ -122,9 +163,13 @@
           "duration_seconds": 377.76
         }
       ],
-      "usage": {
-        "type": "pending",
-        "moment": null
+      "playback": {
+        "main_menu": false,
+        "contexts": [],
+        "pending_assignment": true,
+        "suggested_uses": [
+          "Carrera espacial"
+        ]
       }
     },
     {
@@ -136,9 +181,13 @@
           "duration_seconds": 122.75
         }
       ],
-      "usage": {
-        "type": "pending",
-        "moment": null
+      "playback": {
+        "main_menu": true,
+        "contexts": [],
+        "pending_assignment": true,
+        "suggested_uses": [
+          "Visualización guiada en Paz Mental"
+        ]
       }
     },
     {
@@ -150,9 +199,13 @@
           "duration_seconds": 59.14
         }
       ],
-      "usage": {
-        "type": "pending",
-        "moment": null
+      "playback": {
+        "main_menu": false,
+        "contexts": [],
+        "pending_assignment": true,
+        "suggested_uses": [
+          "Registro de emociones"
+        ]
       }
     },
     {
@@ -164,9 +217,13 @@
           "duration_seconds": 235.57
         }
       ],
-      "usage": {
-        "type": "pending",
-        "moment": null
+      "playback": {
+        "main_menu": false,
+        "contexts": [],
+        "pending_assignment": true,
+        "suggested_uses": [
+          "Reto arcade"
+        ]
       }
     },
     {
@@ -178,9 +235,16 @@
           "duration_seconds": 54.15
         }
       ],
-      "usage": {
-        "type": "pending",
-        "moment": null
+      "playback": {
+        "main_menu": false,
+        "contexts": [
+          {
+            "context": "options",
+            "trigger": "options_opened"
+          }
+        ],
+        "pending_assignment": false,
+        "suggested_uses": []
       }
     },
     {
@@ -192,9 +256,13 @@
           "duration_seconds": 1713.03
         }
       ],
-      "usage": {
-        "type": "pending",
-        "moment": null
+      "playback": {
+        "main_menu": false,
+        "contexts": [],
+        "pending_assignment": true,
+        "suggested_uses": [
+          "Descanso nocturno"
+        ]
       }
     },
     {
@@ -206,9 +274,26 @@
           "duration_seconds": 2714.67
         }
       ],
-      "usage": {
-        "type": "pending",
-        "moment": null
+      "playback": {
+        "main_menu": false,
+        "contexts": [
+          {
+            "context": "relaxation",
+            "trigger": "enter"
+          },
+          {
+            "context": "relaxation_method",
+            "trigger": "enter"
+          },
+          {
+            "context": "study_methods",
+            "trigger": "enter"
+          }
+        ],
+        "pending_assignment": false,
+        "suggested_uses": [
+          "Rompecabezas cósmico"
+        ]
       }
     },
     {
@@ -220,9 +305,13 @@
           "duration_seconds": 194.12
         }
       ],
-      "usage": {
-        "type": "pending",
-        "moment": null
+      "playback": {
+        "main_menu": false,
+        "contexts": [],
+        "pending_assignment": true,
+        "suggested_uses": [
+          "Puzle de memoria"
+        ]
       }
     },
     {
@@ -234,9 +323,13 @@
           "duration_seconds": 101.12
         }
       ],
-      "usage": {
-        "type": "pending",
-        "moment": null
+      "playback": {
+        "main_menu": false,
+        "contexts": [],
+        "pending_assignment": true,
+        "suggested_uses": [
+          "Puzle de memoria"
+        ]
       }
     },
     {
@@ -248,9 +341,13 @@
           "duration_seconds": 161.78
         }
       ],
-      "usage": {
-        "type": "pending",
-        "moment": null
+      "playback": {
+        "main_menu": false,
+        "contexts": [],
+        "pending_assignment": true,
+        "suggested_uses": [
+          "Descanso tras estudiar"
+        ]
       }
     },
     {
@@ -262,9 +359,13 @@
           "duration_seconds": 152.27
         }
       ],
-      "usage": {
-        "type": "pending",
-        "moment": null
+      "playback": {
+        "main_menu": false,
+        "contexts": [],
+        "pending_assignment": true,
+        "suggested_uses": [
+          "Visualización tranquila en Paz Mental"
+        ]
       }
     },
     {
@@ -276,9 +377,16 @@
           "duration_seconds": 230.11
         }
       ],
-      "usage": {
-        "type": "pending",
-        "moment": null
+      "playback": {
+        "main_menu": false,
+        "contexts": [
+          {
+            "context": "study_methods",
+            "trigger": "enter"
+          }
+        ],
+        "pending_assignment": false,
+        "suggested_uses": []
       }
     },
     {
@@ -302,9 +410,13 @@
           "duration_seconds": 321.49
         }
       ],
-      "usage": {
-        "type": "pending",
-        "moment": null
+      "playback": {
+        "main_menu": false,
+        "contexts": [],
+        "pending_assignment": true,
+        "suggested_uses": [
+          "Sesión larga de descanso"
+        ]
       }
     },
     {
@@ -316,9 +428,13 @@
           "duration_seconds": 161.31
         }
       ],
-      "usage": {
-        "type": "pending",
-        "moment": null
+      "playback": {
+        "main_menu": false,
+        "contexts": [],
+        "pending_assignment": true,
+        "suggested_uses": [
+          "Preparación para dormir"
+        ]
       }
     },
     {
@@ -330,9 +446,13 @@
           "duration_seconds": 135.24
         }
       ],
-      "usage": {
-        "type": "pending",
-        "moment": null
+      "playback": {
+        "main_menu": false,
+        "contexts": [],
+        "pending_assignment": true,
+        "suggested_uses": [
+          "Visualización guiada"
+        ]
       }
     },
     {
@@ -344,9 +464,13 @@
           "duration_seconds": 185.34
         }
       ],
-      "usage": {
-        "type": "pending",
-        "moment": null
+      "playback": {
+        "main_menu": false,
+        "contexts": [],
+        "pending_assignment": true,
+        "suggested_uses": [
+          "Baile adicional"
+        ]
       }
     },
     {
@@ -358,9 +482,13 @@
           "duration_seconds": 146.05
         }
       ],
-      "usage": {
-        "type": "pending",
-        "moment": null
+      "playback": {
+        "main_menu": false,
+        "contexts": [],
+        "pending_assignment": true,
+        "suggested_uses": [
+          "Juego de cartas"
+        ]
       }
     },
     {
@@ -372,9 +500,13 @@
           "duration_seconds": 211.54
         }
       ],
-      "usage": {
-        "type": "pending",
-        "moment": null
+      "playback": {
+        "main_menu": false,
+        "contexts": [],
+        "pending_assignment": true,
+        "suggested_uses": [
+          "Gratitud nocturna"
+        ]
       }
     },
     {
@@ -386,9 +518,13 @@
           "duration_seconds": 135.78
         }
       ],
-      "usage": {
-        "type": "pending",
-        "moment": null
+      "playback": {
+        "main_menu": false,
+        "contexts": [],
+        "pending_assignment": true,
+        "suggested_uses": [
+          "Descanso nocturno"
+        ]
       }
     },
     {
@@ -400,9 +536,13 @@
           "duration_seconds": 183.09
         }
       ],
-      "usage": {
-        "type": "pending",
-        "moment": null
+      "playback": {
+        "main_menu": false,
+        "contexts": [],
+        "pending_assignment": true,
+        "suggested_uses": [
+          "Diario personal"
+        ]
       }
     },
     {
@@ -414,9 +554,13 @@
           "duration_seconds": 158.35
         }
       ],
-      "usage": {
-        "type": "pending",
-        "moment": null
+      "playback": {
+        "main_menu": false,
+        "contexts": [],
+        "pending_assignment": true,
+        "suggested_uses": [
+          "Puzle de cocina"
+        ]
       }
     },
     {
@@ -428,10 +572,339 @@
           "duration_seconds": 127.11
         }
       ],
-      "usage": {
-        "type": "pending",
-        "moment": null
+      "playback": {
+        "main_menu": false,
+        "contexts": [],
+        "pending_assignment": true,
+        "suggested_uses": [
+          "Exploración espacial"
+        ]
+      }
+    },
+    {
+      "id": "track-fd15f1ed0b6ee82f",
+      "title": "068.-Death-By-Glamour-_UNDERTALE-Soundtrack_-Toby-Fox",
+      "sources": [
+        {
+          "url": "music/068-death-by-glamour-undertale-soundtrack-toby-fox-fd15f1ed.mp3",
+          "duration_seconds": 138.79
+        }
+      ],
+      "playback": {
+        "main_menu": false,
+        "contexts": [
+          {
+            "context": "cooking_instructions",
+            "trigger": "cooking_instructions_opened"
+          }
+        ],
+        "pending_assignment": false,
+        "suggested_uses": []
+      }
+    },
+    {
+      "id": "track-e3d6088b6941fd60",
+      "title": "Rude-Buster",
+      "sources": [
+        {
+          "url": "music/rude-buster-e3d6088b.mp3",
+          "duration_seconds": 75.47
+        }
+      ],
+      "playback": {
+        "main_menu": false,
+        "contexts": [
+          {
+            "context": "cooking_instructions",
+            "trigger": "cooking_instructions_opened"
+          }
+        ],
+        "pending_assignment": false,
+        "suggested_uses": []
+      }
+    },
+    {
+      "id": "track-4672f1251b29c90f",
+      "title": "Honey Mustard",
+      "sources": [
+        {
+          "url": "music/honey-mustard-4672f125.mp3",
+          "duration_seconds": 113.58
+        }
+      ],
+      "playback": {
+        "main_menu": false,
+        "contexts": [],
+        "pending_assignment": true,
+        "suggested_uses": [
+          "Minijuego de servir pedidos"
+        ]
+      }
+    },
+    {
+      "id": "track-78014f64b5ed719d",
+      "title": "追憶｜フリーBGM OpenTracks（旧DOVA-SYNDROME） OFFICIAL YouTube CHANNEL",
+      "sources": [
+        {
+          "url": "music/bgm-opentracks-dova-syndrome-official-youtube-channel-78014f64.mp3",
+          "duration_seconds": 70.11
+        }
+      ],
+      "playback": {
+        "main_menu": false,
+        "contexts": [
+          {
+            "context": "breathing_exercise",
+            "trigger": "breathing_started"
+          }
+        ],
+        "pending_assignment": false,
+        "suggested_uses": []
+      }
+    },
+    {
+      "id": "track-251bc15903e7056d",
+      "title": "Pocket Money",
+      "sources": [
+        {
+          "url": "music/pocket-money-251bc159.mp3",
+          "duration_seconds": 140.33
+        }
+      ],
+      "playback": {
+        "main_menu": false,
+        "contexts": [],
+        "pending_assignment": true,
+        "suggested_uses": [
+          "Minijuego de recoger monedas"
+        ]
+      }
+    },
+    {
+      "id": "track-7cc5bf8e1934ba9e",
+      "title": "Finale-2",
+      "sources": [
+        {
+          "url": "music/finale-2-7cc5bf8e.mp3",
+          "duration_seconds": 112.48
+        }
+      ],
+      "playback": {
+        "main_menu": false,
+        "contexts": [
+          {
+            "context": "cooking_instructions",
+            "trigger": "cooking_instructions_opened"
+          }
+        ],
+        "pending_assignment": false,
+        "suggested_uses": []
+      }
+    },
+    {
+      "id": "track-40a9e9dd52642a0a",
+      "title": "Daisies",
+      "sources": [
+        {
+          "url": "music/daisies-40a9e9dd.mp3",
+          "duration_seconds": 178.73
+        }
+      ],
+      "playback": {
+        "main_menu": false,
+        "contexts": [],
+        "pending_assignment": true,
+        "suggested_uses": [
+          "Minijuego de jardinería"
+        ]
+      }
+    },
+    {
+      "id": "track-631396a53c7ff5d6",
+      "title": "7 Answers",
+      "sources": [
+        {
+          "url": "music/7-answers-631396a5.mp3",
+          "duration_seconds": 148.53
+        }
+      ],
+      "playback": {
+        "main_menu": false,
+        "contexts": [],
+        "pending_assignment": true,
+        "suggested_uses": [
+          "Minijuego de acertijos"
+        ]
+      }
+    },
+    {
+      "id": "track-8e9c3f162059a365",
+      "title": "Goldcoast",
+      "sources": [
+        {
+          "url": "music/goldcoast-8e9c3f16.mp3",
+          "duration_seconds": 124.0
+        }
+      ],
+      "playback": {
+        "main_menu": false,
+        "contexts": [
+          {
+            "context": "painting_minigame",
+            "trigger": "game_started"
+          }
+        ],
+        "pending_assignment": false,
+        "suggested_uses": []
+      }
+    },
+    {
+      "id": "track-522c00c81ae99ab2",
+      "title": "人狼の為の子守唄 @ フリーBGM DOVA-SYNDROME OFFICIAL YouTube CHANNEL",
+      "sources": [
+        {
+          "url": "music/bgm-dova-syndrome-official-youtube-channel-522c00c8.mp3",
+          "duration_seconds": 100.05
+        }
+      ],
+      "playback": {
+        "main_menu": true,
+        "contexts": [],
+        "pending_assignment": true,
+        "suggested_uses": [
+          "Lectura tranquila en Paz Mental"
+        ]
+      }
+    },
+    {
+      "id": "track-9ab8a0d0848fd6b1",
+      "title": "FreeTempo - Romance",
+      "sources": [
+        {
+          "url": "music/freetempo-romance-9ab8a0d0.mp3",
+          "duration_seconds": 361.72
+        }
+      ],
+      "playback": {
+        "main_menu": false,
+        "contexts": [
+          {
+            "context": "rhythm_minigame",
+            "trigger": "game_started"
+          }
+        ],
+        "pending_assignment": false,
+        "suggested_uses": []
+      }
+    },
+    {
+      "id": "track-6ddf4d148ab68b34",
+      "title": "Temporary",
+      "sources": [
+        {
+          "url": "music/temporary-6ddf4d14.mp3",
+          "duration_seconds": 167.42
+        }
+      ],
+      "playback": {
+        "main_menu": false,
+        "contexts": [],
+        "pending_assignment": true,
+        "suggested_uses": [
+          "Reflexión personal"
+        ]
+      }
+    },
+    {
+      "id": "track-7024f59cb90fa5d8",
+      "title": "『君が居なくなった日』 sasakure.‌UK",
+      "sources": [
+        {
+          "url": "music/sasakure-uk-7024f59c.mp3",
+          "duration_seconds": 149.6
+        }
+      ],
+      "playback": {
+        "main_menu": false,
+        "contexts": [],
+        "pending_assignment": true,
+        "suggested_uses": [
+          "Recuerdos y diario"
+        ]
+      }
+    },
+    {
+      "id": "track-c6fe22994f24bd82",
+      "title": "superstar",
+      "sources": [
+        {
+          "url": "music/superstar-c6fe2299.mp3",
+          "duration_seconds": 147.8
+        }
+      ],
+      "playback": {
+        "main_menu": false,
+        "contexts": [
+          {
+            "context": "study_methods",
+            "trigger": "enter"
+          }
+        ],
+        "pending_assignment": false,
+        "suggested_uses": []
+      }
+    },
+    {
+      "id": "track-5b7da96e6b188c62",
+      "title": "Can You Feel the Sunshine - SONG!",
+      "sources": [
+        {
+          "url": "music/can-you-feel-the-sunshine-song-5b7da96e.mp3",
+          "duration_seconds": 304.09
+        }
+      ],
+      "playback": {
+        "main_menu": false,
+        "contexts": [
+          {
+            "context": "sunshine_dance_game",
+            "trigger": "start_pressed"
+          }
+        ],
+        "pending_assignment": false,
+        "suggested_uses": []
       }
     }
-  ]
+  ],
+  "playback_rules": {
+    "single_active_music": true,
+    "pending_suggestions_are_inactive": true,
+    "main_menu_filter": "playback.main_menu == true",
+    "resume_previous_on_context_exit": true,
+    "context_matching": "exact",
+    "options_scope": "all_options_screens",
+    "breathing_started": {
+      "replace_context": "relaxation",
+      "active_context": "breathing_exercise",
+      "no_overlap": true
+    },
+    "cooking_gate": "Only cooking_instructions_opened after pressing Cook; never recipe browsing",
+    "sunshine_start": {
+      "stop_context": "sunshine_dance_preview",
+      "start_context": "sunshine_dance_game",
+      "restart_from_seconds": 0,
+      "vocal_track_is_timing_master": true
+    },
+    "rhythm_games": {
+      "sunshine_dance": [
+        "sunshine_dance_preview",
+        "sunshine_dance_game"
+      ],
+      "freetempo": "rhythm_minigame"
+    },
+    "spiritual_excluded_contexts": [
+      "breathing_exercise"
+    ],
+    "relaxation_method_scope": "non_breathing_methods_only"
+  }
 }
